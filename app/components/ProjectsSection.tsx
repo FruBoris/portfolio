@@ -18,7 +18,6 @@ export const ProjectsSection = () => {
               description: "Payment Gateway for seamless transactions.",
               techDetails: [
                 "NextJs",
-                "ReactJS",
                 "NodeJs",
                 "ExpressJs",
                 "Docker",
@@ -29,13 +28,13 @@ export const ProjectsSection = () => {
             },
             {
               title: "Gasvisor",
-              description: "Gas station management system.",
+              description: "Gas cylinder management system.",
               techDetails: [
                 "NextJs",
                 "Directus",
                 "ExpressJs",
                 "Docker",
-                "GraphQl",
+                "GraphQL",
                 "Hasura",
                 "Firebase",
                 "GitHub Actions",
@@ -55,7 +54,7 @@ export const ProjectsSection = () => {
               title: "CuisineEase",
               description: "Full-Stack food management platform.",
               techDetails: [
-                "React.js",
+                "Next.js",
                 "Tailwind CSS",
                 "Node.js",
                 "Nest.js",
